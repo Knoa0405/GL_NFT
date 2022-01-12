@@ -1,6 +1,10 @@
 # 프로젝트 제목 : GL_NFT
 Let's make a glittering NFT.
 
+#### 결과물
+- [스마트 컨트랙트 생성과 NFT 토큰 생성 블록 확인](https://ropsten.etherscan.io/address/0xd7313d2ae2c7fd8738cfba737f8609e23405bb54)
+- [생성된 NFT 토큰](https://ropsten.etherscan.io/token/0xc6ED1371722EB2aE8236a380C47d7fc548Fb6806?a=0xd7313d2ae2c7fd8738cfba737f8609e23405bb54)
+
 #### 이더리움 블록 체인 네트워크 ( 테스트넷 ) 을 사용한 ERC721 표준 NFT 생성 ( Minting ) 과 특정 이미지에 NFT 심기.
 
 #### 프로젝트 목적 : NFT 를 생성하고 특정 이미지에 심는 전체 사이클을 학습하기 위함.
