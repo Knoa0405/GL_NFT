@@ -1,7 +1,7 @@
 # 프로젝트 제목 : GL_NFT
 Let's make a glittering NFT.
 
-#### 결과물
+#### 결과물 ( ropsten 테스트넷이 종료되어 토큰 확인이 불가능합니다. )
 - [스마트 컨트랙트 생성과 NFT 토큰 생성 블록 확인](https://ropsten.etherscan.io/address/0xd7313d2ae2c7fd8738cfba737f8609e23405bb54)
 - [생성된 NFT 토큰](https://ropsten.etherscan.io/token/0xc6ED1371722EB2aE8236a380C47d7fc548Fb6806?a=0xd7313d2ae2c7fd8738cfba737f8609e23405bb54)
 
